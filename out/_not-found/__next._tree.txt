@@ -1,3 +1,3 @@
-:HL["/sleep-app/_next/static/chunks/0qx.mpta2y-~n.css","style"]
+:HL["/_next/static/chunks/0qx.mpta2y-~n.css","style"]
 :HL["https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"j5g0zdN1KpyaV9h2MRi-c"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"5MV10-B1S8fc1SL77Htqi"}

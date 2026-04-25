@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
-2:I[3729,["/sleep-app/_next/static/chunks/017hyi_-3wf_t.js","/sleep-app/_next/static/chunks/0is2odwv3gvmn.js"],"ViewportBoundary"]
-3:I[3729,["/sleep-app/_next/static/chunks/017hyi_-3wf_t.js","/sleep-app/_next/static/chunks/0is2odwv3gvmn.js"],"MetadataBoundary"]
+2:I[3729,["/_next/static/chunks/017hyi_-3wf_t.js","/_next/static/chunks/0is2odwv3gvmn.js"],"ViewportBoundary"]
+3:I[3729,["/_next/static/chunks/017hyi_-3wf_t.js","/_next/static/chunks/0is2odwv3gvmn.js"],"MetadataBoundary"]
 4:"$Sreact.suspense"
-5:I[33754,["/sleep-app/_next/static/chunks/017hyi_-3wf_t.js","/sleep-app/_next/static/chunks/0is2odwv3gvmn.js"],"IconMark"]
-0:{"rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Sleep Better"}],["$","meta","1",{"name":"description","content":"Track your sleep and build healthy habits"}],["$","link","2",{"rel":"icon","href":"/sleep-app/favicon.ico?favicon.0x3dzn~oxb6tn.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L5","3",{}]]}]}]}],null]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"j5g0zdN1KpyaV9h2MRi-c"}
+5:I[33754,["/_next/static/chunks/017hyi_-3wf_t.js","/_next/static/chunks/0is2odwv3gvmn.js"],"IconMark"]
+0:{"rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Sleep Better"}],["$","meta","1",{"name":"description","content":"Track your sleep and build healthy habits"}],["$","link","2",{"rel":"icon","href":"/favicon.ico?favicon.0x3dzn~oxb6tn.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L5","3",{}]]}]}]}],null]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"5MV10-B1S8fc1SL77Htqi"}

@@ -1,5 +1,5 @@
 1:"$Sreact.fragment"
-2:I[49004,["/sleep-app/_next/static/chunks/017hyi_-3wf_t.js","/sleep-app/_next/static/chunks/0is2odwv3gvmn.js"],"default"]
-3:I[17870,["/sleep-app/_next/static/chunks/017hyi_-3wf_t.js","/sleep-app/_next/static/chunks/0is2odwv3gvmn.js"],"default"]
+2:I[49004,["/_next/static/chunks/017hyi_-3wf_t.js","/_next/static/chunks/0is2odwv3gvmn.js"],"default"]
+3:I[17870,["/_next/static/chunks/017hyi_-3wf_t.js","/_next/static/chunks/0is2odwv3gvmn.js"],"default"]
 4:[]
-0:{"rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"isPartial":false,"staleTime":300,"varyParams":"$W4","buildId":"j5g0zdN1KpyaV9h2MRi-c"}
+0:{"rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"isPartial":false,"staleTime":300,"varyParams":"$W4","buildId":"5MV10-B1S8fc1SL77Htqi"}
